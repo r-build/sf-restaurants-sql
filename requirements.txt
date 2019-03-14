@@ -1,0 +1,8 @@
+python=3
+jupyter
+numpy
+pandas
+matplotlib
+seaborn
+ipython-sql
+ipython-cypher==0.2.6
